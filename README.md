@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 style="text-align:center;">Hi there, I'm Jeevitha Vijayakumar. 👋</h1>
 
-<!--
-**jeevithavijaykumar/jeevithavijaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jeevitha-vijayakumar/"> <!-- LinkedIn -->
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/jeevithavijaykumar"> <!-- GitHub -->
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas"> <!-- Python project -->
+  <img alt="Python Project" src="https://img.shields.io/badge/Python-EDA_Project-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes"> <!-- Tableau portfolio -->
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Projects-%234A55A9?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
+<p style="text-align: justify">
+I am a Data Analyst with over four years of experience in full-stack data analysis, including data collection, cleaning, exploratory data analysis, experimental design, reporting, and dashboard development. I specialize in solving complex analytical problems to drive business impact. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in advanced SQL, Python (for data analysis and automation), Tableau dashboarding, and statistical analysis. I have a strong track record of collaborating with cross-functional teams to support product development, optimize processes, and improve operational efficiency.
+</p>
+
+-----
+
+<h3>🧰 Tools & Technologies</h3>
+
+<h4>Languages & Libraries</h4>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h4>Dashboards & Reporting</h4>
+<p>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="IBM Cognos" src="https://img.shields.io/badge/IBM_Cognos-0072C6?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+</p>
+
+<h4>Databases</h4>
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Netezza" src="https://img.shields.io/badge/Netezza-2E8B57?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img alt="IBM DB2" src="https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+<h4>Cloud & Storage</h4>
+<p>
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<h4>IDEs & Notebooks</h4>
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
+
+<h4>Project Management</h4>
+<p>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img alt="Asana" src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" />
+</p>
