@@ -7,7 +7,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas"> <!-- Python project -->
-  <img alt="Python Project" src="https://img.shields.io/badge/Python-EDA_Project-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="End-to-End EDA" src="https://img.shields.io/badge/Python-EDA_Project-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 <a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes"> <!-- Tableau portfolio -->
   <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Tableau-Portfolio-%234A55A9?style=for-the-badge&logo=tableau&logoColor=white" />
