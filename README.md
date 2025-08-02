@@ -11,6 +11,7 @@
 </a>
 <a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes"> <!-- Tableau portfolio -->
   <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Portfolio-Projects-%234A55A9?style=for-the-badge&logo=About.me&logoColor=white" />
+</a> 
 <a href="https://github.com/jeevithavijayakumar/SQL_Projects_Portfolio"> <!-- SQL Projects Portfolio -->
   <img alt="SQL Portfolio Projects" src="https://img.shields.io/badge/SQL-Projects_Portfolio-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </a>
