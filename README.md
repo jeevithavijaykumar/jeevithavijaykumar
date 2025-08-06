@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/jeevitha-vijayakumar/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/jeevithavijaykumar">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <hr>
