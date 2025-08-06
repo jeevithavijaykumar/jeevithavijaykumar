@@ -1,20 +1,30 @@
-<h1 style="text-align:center;">Hi there, I'm Jeevitha Vijayakumar. 👋</h1>
+<h1 style="text-align:center;">Hi there, I'm Jeevitha Vijayakumar 👋</h1>
 
-<a href="https://www.linkedin.com/in/jeevitha-vijayakumar/"> <!-- LinkedIn -->
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/jeevithavijaykumar"> <!-- GitHub -->
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas">
-  <img alt="Python End-to-End EDA" src="https://img.shields.io/badge/Python-End--to--End--EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-<a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes"> <!-- Tableau portfolio -->
-  <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Tableau-Portfolio-%234A55A9?style=for-the-badge&logo=tableau&logoColor=white" />
-</a>
-<a href="https://github.com/jeevithavijaykumar/sql-projects-portfolio"> <!-- SQL Projects Portfolio -->
-  <img alt="SQL Portfolio Projects" src="https://img.shields.io/badge/SQL-Projects_Portfolio-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-</a>
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/jeevitha-vijayakumar/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/jeevithavijaykumar">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+<h2>📊 Featured Portfolio Projects</h2>
+<p>
+  <a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas">
+    <img alt="Python EDA Project" src="https://img.shields.io/badge/Python-End--to--End--EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes">
+    <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Tableau-Dashboards-%234A55A9?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeevithavijaykumar/sql-projects-portfolio">
+    <img alt="SQL Portfolio Projects" src="https://img.shields.io/badge/SQL-Projects_Portfolio-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  </a>
+</p>
+
+<hr>
 
 <p style="text-align: justify">
 I am a Data Analyst with over four years of experience in full-stack data analysis, including data collection, cleaning, exploratory data analysis, experimental design and hypothesis testing, reporting, and dashboard development. I specialize in solving complex analytical problems to drive business impact. 
