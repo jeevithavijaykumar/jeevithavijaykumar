@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2>📊 Featured Portfolio Projects</h2>
+<h2> Featured Portfolio Projects</h2>
 <p>
   <a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas">
     <img alt="Python EDA Project" src="https://img.shields.io/badge/Python-End--to--End--EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
