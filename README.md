@@ -54,8 +54,8 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
 <h4>Databases</h4>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="AWS Redshift" src="https://img.shields.io/badge/AWS_Redshift-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="AWS Redshift" src="https://img.shields.io/badge/AWS_Redshift-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Netezza" src="https://img.shields.io/badge/Netezza-2E8B57?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
