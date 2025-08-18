@@ -46,6 +46,7 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
 <h4>Dashboards & Reporting</h4>
 <p>
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img alt="Hex" src="https://img.shields.io/badge/Hex-000000?style=for-the-badge&logo=hex&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="IBM Cognos" src="https://img.shields.io/badge/IBM_Cognos-0072C6?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
