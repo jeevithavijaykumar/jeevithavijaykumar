@@ -13,11 +13,11 @@
   <a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas">
     <img alt="Python EDA Project" src="https://img.shields.io/badge/Python-End--to--End--EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes">
-    <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Tableau-Dashboards-%234A55A9?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
   <a href="https://github.com/jeevithavijaykumar/sql-projects-portfolio">
     <img alt="SQL Portfolio Projects" src="https://img.shields.io/badge/SQL-Projects_Portfolio-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+  </a>
+  <a href="https://public.tableau.com/app/profile/jeevitha.vijayakumar/vizzes">
+    <img alt="Tableau Portfolio" src="https://img.shields.io/badge/Tableau-Dashboards-%234A55A9?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 </p>
 
