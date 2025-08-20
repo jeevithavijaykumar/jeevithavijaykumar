@@ -23,7 +23,6 @@
 
 <hr>
 
-
 <p style="text-align: justify">
 I am a Data Analyst with over four years of experience in full-stack data analysis, including data collection, cleaning, exploratory data analysis, experimental design and hypothesis testing, reporting, and dashboard development. I specialize in solving complex analytical problems to drive business impact. 
 
