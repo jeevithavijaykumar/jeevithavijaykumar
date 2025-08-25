@@ -11,7 +11,7 @@
 <h2> Portfolio Projects</h2>
 <p>
   <a href="https://github.com/jeevithavijaykumar/Exploratory_data_analysis_using_pandas">
-    <img alt="Python EDA Project" src="https://img.shields.io/badge/Python-End--to--End--EDA-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Python EDA Project" src="https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/jeevithavijaykumar/sql-projects-portfolio">
     <img alt="SQL Portfolio Projects" src="https://img.shields.io/badge/SQL-Portfolio_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
