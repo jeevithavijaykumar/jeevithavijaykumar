@@ -60,6 +60,7 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
   <img alt="Netezza" src="https://img.shields.io/badge/Netezza-2E8B57?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
+
 <h4>Cloud & Storage</h4>
 <p>
   <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
