@@ -31,6 +31,7 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
 
 ------
 
+
 <h3> Tools & Technologies</h3>
 
 <h4>Languages & Libraries</h4>
