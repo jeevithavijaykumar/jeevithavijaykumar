@@ -61,17 +61,16 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
   <img alt="Netezza" src="https://img.shields.io/badge/Netezza-2E8B57?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-
-<h4>Cloud & Storage</h4>
-<p>
-  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
 <h4>IDEs & Notebooks</h4>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<h4>Cloud & Storage</h4>
+<p>
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <h4>Project Management</h4>
