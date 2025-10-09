@@ -77,4 +77,5 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
 <p>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="Asana" src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white" />
+  <img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-273347?style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </p>
