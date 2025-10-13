@@ -24,7 +24,7 @@
 <hr>
 
 <p style="text-align: justify">
-I am a Data Analyst with over four years of experience in full-stack data analysis, including data collection, cleaning, exploratory analysis, experimental design, hypothesis testing, reporting, and dashboard development. I specialize in solving complex analytical problems to drive business impact. 
+I am a Data Analyst with over four years of experience in full-stack data analysis, including data collection, cleaning, exploratory analysis, experimental design, and hypothesis testing, reporting, and dashboard development. I specialize in solving complex analytical problems to drive business impact. 
 
 I am proficient in advanced SQL, Python (for data analysis and automation), Tableau dashboarding, and statistical analysis. I have a strong track record of collaborating with cross-functional teams to support product development, optimize processes, and improve operational efficiency.
 </p>
