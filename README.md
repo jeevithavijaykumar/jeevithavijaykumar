@@ -41,7 +41,7 @@ I am proficient in advanced SQL, Python (for data analysis and automation), Tabl
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-0072C6?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <h4>Dashboards & Reporting</h4>
