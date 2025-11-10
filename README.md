@@ -29,6 +29,7 @@ I am a Data Analyst with over four years of experience in full-stack data analys
 I am proficient in advanced SQL, Python (for data analysis and automation), Tableau dashboarding, and statistical analysis. I have a strong track record of collaborating with cross-functional teams to support product development, optimize processes, and improve operational efficiency.
 
 </p>
+
 ------
 
 <h3> Tools & Technologies</h3>
